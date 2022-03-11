@@ -1,13 +1,13 @@
 export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://MarryamZulfiqar.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "MarryamZulfiqar",
+  "projectName": "docussaurus-gitbook",
   "presets": [
     [
       "@docusaurus/preset-classic",

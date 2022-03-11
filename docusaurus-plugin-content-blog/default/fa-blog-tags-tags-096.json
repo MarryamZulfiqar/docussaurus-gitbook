@@ -1,0 +1,23 @@
+{
+  "docusaurus": {
+    "allTagsPath": "/fa/blog/tags",
+    "slug": "docusaurus",
+    "name": "docusaurus",
+    "count": 3,
+    "permalink": "/fa/blog/tags/docusaurus"
+  },
+  "hello": {
+    "allTagsPath": "/fa/blog/tags",
+    "slug": "hello",
+    "name": "hello",
+    "count": 1,
+    "permalink": "/fa/blog/tags/hello"
+  },
+  "hola": {
+    "allTagsPath": "/fa/blog/tags",
+    "slug": "hola",
+    "name": "hola",
+    "count": 1,
+    "permalink": "/fa/blog/tags/hola"
+  }
+}
